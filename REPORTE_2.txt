@@ -1,4 +1,5 @@
 <INICIO>
+0. Validar que el usuario se encuentre in ("Lima")
 1. Obtener inicio de trabajos de personal de terreno
 2. Obtener fin de trabajos del personal de terreno
 3. Restar fin e inicio de trabajos
