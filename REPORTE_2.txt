@@ -1,0 +1,6 @@
+<INICIO>
+1. Obtener inicio de trabajos de personal de terreno
+2. Obtener fin de trabajos del personal de terreno
+3. Restar fin e inicio de trabajos
+4. Obtener consolidado de horas trabajadas durante el mes
+<FIN>
